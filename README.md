@@ -7,7 +7,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/acaillea?1337Badge=off&UM6P=off" alt="acaillea's 42 stats"/></a>
 
 <h3>GITHUB LANGUAGES :</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alncailleau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alncailleau&layout=compact)
 
 <h3>MY FAVORITES PROJECTS</h3>
 
