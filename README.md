@@ -1,6 +1,6 @@
 <h1 align="center">Greetings! Welcome to Alan Cailleau's profile</h1>
 <h3>ME :</h3> <ul>
-<li>  Passionate developer 👨🏼‍💻 from School 19/42Network</li>
+<li href="none">  Passionate developer 👨🏼‍💻 from School 19/42Network</li>
 <li>  Aviation enthousiast 🛫 since ever</li></ul>
 
 <h3>42 BADGE :</h3>
