@@ -10,4 +10,4 @@
 <a align="center" href='(https://github.com/anuraghazra/github-readme-stats)'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alncailleau&layout=compact&theme=prussian&show_icons=true" /></a>
 
 <h3>How to reach me 📫</h3>
-<p><a href='cailleau.alan@gmail.com'></a>cailleau.alan@gmail.com</p>
+<ul><li href='mailto:cailleau.alan@gmail.com'>cailleau.alan@gmail.com</li><li>linke</li></ul>
