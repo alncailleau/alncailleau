@@ -11,4 +11,6 @@
 
 <h3>How to reach me 📫</h3>
 <ul>
-  <li <a href='mailto:cailleau.alan@gmail.com'>>cailleau.alan@gmail.com</li>a></li>   <li>linke</li></ul>
+  <li> <a href="mailto:cailleau.alan@gmail.com">cailleau.alan@gmail.com</a></li>
+  <li>linke</li>
+</ul>
