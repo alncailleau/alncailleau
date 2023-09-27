@@ -12,5 +12,5 @@
 <h3>How to reach me 📫</h3>
 <ul>
   <li> <a href="mailto:cailleau.alan@gmail.com">cailleau.alan@gmail.com</a></li>
-  <li>linke</li>
+  <li> <a href='https://www.linkedin.com/in/alan-cailleau-62a33314b/'>LinkedIn</a></li>
 </ul>
