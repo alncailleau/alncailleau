@@ -5,11 +5,11 @@
 
 <h3>42 BADGE :</h3>
 <p align="center"></p>
-![<acaillea>'s 42 stats](https://badge.mediaplus.ma/darkblue/acaillea?1337Badge=off&UM6P=off)
+[![acaillea's 42 stats](https://badge.mediaplus.ma/darkblue/acaillea?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <h3>GITHUB LANGUAGES :</h3>
 <p align="center"></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaillea&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alncailleau&hide_progress=true)
 
 <h3>How to reach me 📫</h3>
-**cailleau.alan@gmail.com**
+<p>cailleau.alan@gmail.com</p>
