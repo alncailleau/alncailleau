@@ -9,7 +9,7 @@
 
 <h3>GITHUB LANGUAGES :</h3>
 <p align="center"></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alncailleau&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alncailleau&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>How to reach me 📫</h3>
 <p>cailleau.alan@gmail.com</p>
